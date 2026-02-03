@@ -9,3 +9,6 @@ I find this article interesting because LLMs affect almost every aspect of the s
 
 ## Proof Reading
 Article checked for typos
+
+## Comment by Hyun Na (hn2264)
+I think this article is very relevant and cool.
